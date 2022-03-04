@@ -1,3 +1,20 @@
 {
-  "clientes": []
+  "clientes": [
+    {
+      "nombre": "Norman",
+      "empresa": "Enatrel",
+      "email": "correo@correo.com",
+      "telefono": "85963212",
+      "notas": "Hola Mundo",
+      "id": 1
+    },
+    {
+      "nombre": "Darling",
+      "empresa": "Claro",
+      "email": "correo@correo.com",
+      "telefono": "741236589",
+      "notas": "Trabaja en claro",
+      "id": 2
+    }
+  ]
 }
